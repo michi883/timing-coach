@@ -4,7 +4,7 @@
 
 An AI-powered language coach that helps you sound natural when speaking a new language. Practice phrases with native-level rhythm, intonation, and timing using real-time audio coaching.
 
-**🌐 Live Demo:** [timing-coach.web.app](https://timing-coach.web.app)
+**🌐 Live Demo:** [tc.sound.fan](https://tc.sound.fan)
 
 ## ✨ Features
 
